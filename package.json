@@ -42,7 +42,7 @@
     "typescript": "^3.7.4"
   },
   "dependencies": {
-    "bcrypt": "^5.1.0",
+    "bcrypt": "^5.0.1",
     "express": "^4.17.1",
     "fast-glob": "^3.2.12",
     "mongodb": "^3.5.1",
